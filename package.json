@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Leonardo Fernández <leonardo99112821385@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
